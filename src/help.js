@@ -230,7 +230,7 @@ ____██_____██
 ║
 ║ *NOME: NESCAU*
 ║ *INSTA: animexx_png*
-║ *WPP: wa.me/+559887053394*
+║ *WPP: wa.me/+5547992091566*
 ║ *YOUTUBE: https://youtube.com/c/caussZ*
 ║
 ║  *"base do lindo (DARK BOT 4.0)🐊🚩*
