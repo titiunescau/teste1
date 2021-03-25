@@ -5,7 +5,7 @@ const help = (prefix) => {
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : CAUSS
+__█▄█████▄█   *DONO*    : NESCAU
 __█▼▼▼▼▼█ 
 _██ᏴϴͲ Ꮩ3.8██▌ 
 __█▲▲▲▲▲█ 
@@ -15,9 +15,9 @@ ____██_____██
 ┌─────────❶.❷────────
 ║〘 INFORMAÇÕES 〙
 ║
-╠🐉 *CAUSS BOT* 
-╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗CAUSS (base dark) 
-╠🐉 *wa.me/+5547992091566*
+╠🐉 *NESCAU BOT* 
+╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗NESCAU (base dark) 
+╠🐉 *wa.me/+559887053394*
 ╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ║
@@ -226,18 +226,18 @@ ____██_____██
 ║🐊 *gemidao*
 ║🐊 *musica*
 ║
-╠══🐰〘 CAUSS NO CONTROLE 〙🐰══
+╠══🐰〘 NESCAU NO CONTROLE 〙🐰══
 ║
-║ *NOME: CAUSS*
+║ *NOME: NESCAU*
 ║ *INSTA: animexx_png*
-║ *WPP: wa.me/+5547992091566*
+║ *WPP: wa.me/+559887053394*
 ║ *YOUTUBE: https://youtube.com/c/caussZ*
 ║
 ║  *"base do lindo (DARK BOT 4.0)🐊🚩*
 ║  *"kiba não xereka"*
 ║  *Número do dark: wa.me/+5522996215481
 ║
-╚═〘 CAUSS BOT 〙`
+╚═〘 NESCAU BOT 〙`
 }
 
 exports.help = help
